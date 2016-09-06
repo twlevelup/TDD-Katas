@@ -9,5 +9,5 @@ An easy way to do this with Node is:
         http-server
         
 Now open one of the kata:
--  [Calculator kata](//localhost:8080/katas/calculator)
--  [Triangle kata](//localhost:8080/katas/triangle)
+-  [Calculator kata](http://localhost:8080/katas/calculator)
+-  [Triangle kata](http://localhost:8080/katas/triangle)
